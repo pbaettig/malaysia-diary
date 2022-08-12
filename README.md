@@ -1,0 +1,5 @@
+* [18.7.22 / 19.7.2022: Anreise](2022-07-18%2C2022-07.19.md)
+* [20.7.22: Der erste Tag in Kuala Lumpur](2022-07-20.md)
+* [21.7.22: Der zweite Tag in Kuala Lumpur](2022-07-21.md)
+* [22.7.22: Reise nach Ipoh](2022-07-22.md)
+* [23.7.22: Der zweite Tag in Ipoh](2022-07-23.md)
